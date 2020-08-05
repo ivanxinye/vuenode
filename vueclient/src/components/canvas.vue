@@ -3,10 +3,6 @@
 </template>
 
 <script>
-    var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
-        ctx.fillStyle = "red"; //设置颜色
-        ctx.fillRect(50,50, 200, 200); //绘制方块
     export default {
       name: 'canvas',
       data () {
