@@ -22,7 +22,7 @@
 <script>
     
     export default {
-      name: 'backlogin',
+      name: 'login',
       data () {
         return {
                 username:"admin",/*TODO:先预存测试值，以免手动输入*/
